@@ -1,12 +1,16 @@
 {
-  "dialogues": [
-    {
-      "character": "Enemigo",
-      "text": "¡Por fin nos encontramos! Debes derrotarme y conseguir todas las llaves para superarme."
-    },
-    {
-      "character": "Enemigo",
-      "text": "Estoy aquí para derrotarte."
-    }
+  "c2array": true,
+  "size": [10, 1, 2],
+  "data": [
+    [["¡Por fin nos encontramos!", "Enemigo"]],
+    [["Sabía que este momento llegaría...", "Jugador"]],
+    [["Has llegado lejos, pero este es tu final.", "Enemigo"]],
+    [["No me rendiré tan fácilmente.", "Jugador"]],
+    [["Para superarme, debes derrotarme y conseguir todas las llaves.", "Enemigo"]],
+    [["Las encontraré, no importa cuánto me tome.", "Jugador"]],
+    [["Las llaves están escondidas en los templos ancestrales.", "Enemigo"]],
+    [["Entonces, mi destino está claro. Iré por ellas.", "Jugador"]],
+    [["Estoy aquí para derrotarte. ¡Prepárate para luchar!", "Enemigo"]],
+    [["¡Es hora de luchar y terminar con esto de una vez por todas!", "Jugador"]]
   ]
 }
