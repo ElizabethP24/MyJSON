@@ -1,0 +1,12 @@
+{
+  "dialogues": [
+    {
+      "character": "Enemigo",
+      "text": "¡Por fin nos encontramos! Debes derrotarme y conseguir todas las llaves para superarme."
+    },
+    {
+      "character": "Enemigo",
+      "text": "Estoy aquí para derrotarte."
+    }
+  ]
+}
